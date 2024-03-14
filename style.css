@@ -23,9 +23,7 @@ margin: 0 auto;
     font-size: 32px;
     color: var(--preto);
 }
-.titulo-principal span{
-    color: var(--verde);
-}
+
 .botao
 {
     background-color: var(--botao-inativo);
