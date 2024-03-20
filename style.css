@@ -75,7 +75,7 @@ body
 .botao.ativo
 {
     background-color: var(--botao-ativo);
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .abas-textos
 {
