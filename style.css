@@ -21,13 +21,13 @@ margin: 0 auto;
     text-align: center;
     width: 100%;
     font-size: 42px;
-    color: pink;
+    color: black;
 }
 
 .botao
 {
     background-color: var(--botao-inativo);
-    color: black;
+    color: var(--branco);
     display: flex;
     justify-content: center;
     padding: 1em;
@@ -79,7 +79,7 @@ body
 }
 .abas-textos
 {
-    background-color: green;
+    background-color: pink;
     padding: 40px;
     border-radius: 0 0 40px 40px;
     border-bottom: 4px solid var(--cor-borda);
